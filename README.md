@@ -20,7 +20,7 @@ Objective is to design and implement a voting sytem inorder to conduct voting in
 
 
 - After registration, the candidate should login to cast their vote like below.
-- ![Screenshot 6](https://user-images.githubusercontent.com/82858526/194687254-34421270-2904-4946-8910-73ebe99447c4.png)
+![Screenshot 6](https://user-images.githubusercontent.com/82858526/194687254-34421270-2904-4946-8910-73ebe99447c4.png)
 
 
 
